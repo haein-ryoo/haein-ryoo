@@ -7,5 +7,5 @@ My interests are :
 - Statistical Inference
 - Stochastic Process
 
-My github  
+My github link can be found (https://github.com/haein-ryoo)
 
