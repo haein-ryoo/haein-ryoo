@@ -7,3 +7,4 @@ I am MSc Applied Statistics student at Imperial College London. I have graduated
 
 My github link can be found [here](https://github.com/haein-ryoo)
 
+Task 3: fixing someone else's mistakes
